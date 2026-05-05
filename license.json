@@ -95,6 +95,15 @@
         "message_tr": "G0TUNUN DELİĞİNE HELELELELELE",
         "message_en": "G0TUNUN DELİĞİNE HELELELELELE",
         "expires_at": "30.04.2028 23:59"
+      },
+    {
+      "username": "Jiyan",
+      "id": "2ce1a03e265bcaac0d14d2bb0a2366e8a6c5f297e57feafcf63d2e38048255b8",
+      "expires_at": "12.04.2030 23:20",
+      "announcement": {
+        "message_tr": "G0TUNUN DELİĞİNE HELELELELELE",
+        "message_en": "G0TUNUN DELİĞİNE HELELELELELE",
+        "expires_at": "30.04.2028 23:59"
       }
     }
   ]
