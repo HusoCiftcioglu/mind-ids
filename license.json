@@ -70,6 +70,15 @@
         "message_tr": "G0TUNUN DELİĞİNE HELELELELELE",
         "message_en": "G0TUNUN DELİĞİNE HELELELELELE",
         "expires_at": "30.04.2028 23:59"
+      },
+    {
+      "username": "yakaza",
+      "id": "f08e9dd886e207685772acad467f57ca121b58f5e534f13209bc65a22d2b4e31",
+      "expires_at": "13.06.2026 23:20",
+      "announcement": {
+        "message_tr": "o mindin Qulligine koyulacak",
+        "message_en": "o mindin Qulligine koyulacak",
+        "expires_at": "13.05.2026 23:59"
       }
     }
   ]
